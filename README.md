@@ -20,6 +20,7 @@
 A web MVC action-based framework, on top of CDI, for fast and maintainable Java development. 
 
 ## Downloading 
+## Downloading
 
 For a quick start, you can use this snippet in your maven POM:
 
